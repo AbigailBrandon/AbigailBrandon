@@ -1,5 +1,4 @@
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abigail;I+love+programming.)](https://git.io/typing-svg)
 
 - &#11088; Constantly enhancing my ***skills*** in free time.
