@@ -5,7 +5,7 @@
 - :camera: Problem solver by day, and ***photographer*** by night.
 - &#128526; I believe a ***positive mindset*** Is key to solving problems, motivating others, and creating an atmosphere of empowerment. 
 
-<h2 align="center"> :student: Programming Languages I'm Learning</h2>
+<h2 align="center"> :student: Languages I'm Learning</h2>
 
 ---
 
