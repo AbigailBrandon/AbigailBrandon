@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abigail;I+love+to+code)](https://git.io/typing-svg)
 
 
-- &#11088; You can catch me exploring new coding techniques, tools, and technologies in my free time. I thrive on the thrill of learning and the challenge of mastering new skills.
+- &#11088; You can catch me exploring new coding techniques, tools, and technologies in my free time.
 - :camera: Dev by day, and ***photographer*** by night.
 - &#128526; I believe a ***positive mindset*** Is key to solving problems, motivating others, and creating an atmosphere of empowerment. 
 
